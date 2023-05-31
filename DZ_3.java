@@ -1,8 +1,7 @@
 package DZ.DZ_3;
 
 public class DZ_3 {
-    public static void main(String[] args) {
-    }
+
 
     public class Node{
         int value;
